@@ -1,14 +1,14 @@
-Simple node.js project where following concepts were used: rate-limiting , caching , indexing
+#Simple node.js project where following concepts were used: rate-limiting , caching , indexing
 
-database - Mongodb
+//database - Mongodb
 
-framework - express.js
+//framework - express.js
 
-cache - node-cache
+//cache - node-cache
 
-rate-limit - custom class of sliding-window algorithm
+//rate-limit - custom class of sliding-window algorithm
 
-other packages - nodemon, dotenv
+//other packages - nodemon, dotenv
 
 # environment-varialbes:
 PORT - server port
